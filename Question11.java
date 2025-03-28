@@ -1,4 +1,4 @@
-package assignment2HA;
+package Manibhushan;
 
 import java.util.Scanner;
 

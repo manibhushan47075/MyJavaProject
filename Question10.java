@@ -1,4 +1,4 @@
-package assignment2;
+package Manibhushan;
 import java.util.Scanner;
 
 class Student{

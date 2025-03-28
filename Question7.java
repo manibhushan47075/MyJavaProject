@@ -1,4 +1,4 @@
-package manibhushan;
+package Manibhushan;
 
 
 class Shape{

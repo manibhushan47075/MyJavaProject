@@ -1,4 +1,4 @@
-package assignment2HA;
+package Manibhushan;
 class Distance{
 	int feet;
 	int inches;

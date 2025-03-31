@@ -26,9 +26,9 @@ class CarDemo {
         System.out.println("Enter the Year of car 2");
         int yr = sc.nextInt();
 
-        c2.model=str;
-        c2.year=yr;
-        // also write it as c2.setDetails(str, yr);
+        // c2.model=str;
+        // c2.year=yr;
+        c2.setDetails(str, yr);
 
         c1.displayDetails();
         c2.displayDetails();
